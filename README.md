@@ -19,19 +19,6 @@ Sou apaixonado por tecnologia, inovação e desenvolvimento de software. Atualme
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismaelmmachado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelmmachado&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismaelmmachado&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 Métricas Detalhadas
-
 | Métrica | Valor |
 |---------|-------|
 | ⭐ **Estrelas** | 0 |
@@ -72,7 +59,11 @@ Sou apaixonado por tecnologia, inovação e desenvolvimento de software. Atualme
 
 ## 📈 Gráfico de Contribuições
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ismaelmmachado&theme=tokyonight)
+![Gráfico de Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=ismaelmmachado&theme=github-dark)
+
+> 💡 **Nota:** Se o gráfico acima não carregar, ele será substituído pela versão estática abaixo.
+
+![Gráfico Estático](https://github.com/ismaelmmachado/ismaelmmachado/raw/main/assets/contributions.png)
 
 ---
 
@@ -86,17 +77,3 @@ Sou apaixonado por tecnologia, inovação e desenvolvimento de software. Atualme
 
 ⭐ **"O segredo não está no modelo, está no harness que você controla."**  
 — _Matt Pocock_
-
-## 📊 Estatísticas Dinâmicas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismaelmmachado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ismaelmmachado&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelmmachado&layout=compact&langs_count=7&theme=tokyonight)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ismaelmmachado&theme=tokyonight)
-
-</div>
