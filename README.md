@@ -12,7 +12,6 @@ Sou apaixonado por tecnologia, inovação e desenvolvimento de software. Atualme
 
 - 🔭 **Trabalhando em:** Gestão de Projetos com IA, automação e desenvolvimento full-stack
 - 🌱 **Aprendendo:** Agentes Autônomos, MCP e Orquestração de IA
-- 💬 **Me pergunte sobre:** Vibe Coding, SaaS, DevOps, Automação com IA
 - ⚡ **Fato divertido:** Cada projeto é uma nova aventura!
 
 ---
