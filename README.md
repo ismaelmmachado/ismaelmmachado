@@ -69,7 +69,7 @@ Sou apaixonado por tecnologia, inovação e desenvolvimento de software. Atualme
 
 ## 📫 Contato
 
-📧 **Email:** ismael@example.com  
+📧 **Email:** ismaelmmachado@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/ismaelmmachado](https://linkedin.com/in/ismaelmmachado)  
 🐦 **Twitter:** [@ismaelmmachado](https://twitter.com/ismaelmmachado)  
 
