@@ -86,3 +86,17 @@ Sou apaixonado por tecnologia, inovação e desenvolvimento de software. Atualme
 
 ⭐ **"O segredo não está no modelo, está no harness que você controla."**  
 — _Matt Pocock_
+
+## 📊 Estatísticas Dinâmicas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismaelmmachado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ismaelmmachado&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelmmachado&layout=compact&langs_count=7&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ismaelmmachado&theme=tokyonight)
+
+</div>
