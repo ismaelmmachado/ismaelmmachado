@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou apaixonado por tecnologia, inovação e desenvolvimento de software. Atualmente explorando o universo do **Vibe Coding**, **Agentes de IA** e **Harness Engineering** com ferramentas como OpenCode, Supabase e Next.js.
+Sou apaixonado por Gestão de Projetos, tecnologia, inovação e desenvolvimento de software. Atualmente explorando o universo do **Vibe Coding**, **Agentes de IA** e **Harness Engineering** com ferramentas como OpenCode, Supabase e Next.js.
 
 - 🔭 **Trabalhando em:** Gestão de Projetos com IA, automação e desenvolvimento full-stack
 - 🌱 **Aprendendo:** Agentes Autônomos, MCP e Orquestração de IA
